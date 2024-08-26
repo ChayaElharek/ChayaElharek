@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChayaElharak
+- 👋 Hi, I’m @ChayaElharar
 - 👀 I’m interested in ...DevOps / Linux / React 
 - 🌱 I’m currently learning ... React 
 - 💞️ I’m looking to collaborate on ... DevOps project 
