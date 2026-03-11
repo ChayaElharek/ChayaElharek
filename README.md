@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=200&section=header&text=Chaya%20Elharar&fontSize=50&fontColor=f8fafc&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20Infrastructure%20%7C%20Automation&descAlignY=58&descColor=94a3b8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=200&section=header&text=Chaya%20Elharar&fontSize=50&fontColor=f8fafc&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Infrastructure%20%7C%20Automation&descAlignY=58&descColor=94a3b8" />
 
 </div>
 
@@ -16,9 +16,9 @@
 
 ## 👩‍💻 Sobre mim
 
-Profissional de **DevOps e Infraestrutura Cloud** com experiência sólida em ambientes Linux, automação, pipelines CI/CD e operação de sistemas em produção. Atuo como **CTO na 123 Tecnologia**, liderando a modernização de infraestrutura, conteinerização de serviços e implementação de observabilidade.
+Sou **DevOps Engineer** com experiência prática em infraestrutura Linux, conteinerização e automação de processos. Trabalho diretamente com ambientes produtivos — do deploy ao monitoramento — e estou em constante evolução para aprofundar minha atuação em Cloud e práticas DevOps.
 
-Tenho paixão por construir sistemas estáveis, escaláveis e bem documentados — do código à infraestrutura.
+Gosto de resolver problemas reais, documentar o que faço e construir soluções que outras pessoas consigam entender e manter.
 
 ---
 
@@ -27,7 +27,6 @@ Tenho paixão por construir sistemas estáveis, escaláveis e bem documentados �
 ### Infraestrutura & Cloud
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
@@ -59,7 +58,7 @@ Tenho paixão por construir sistemas estáveis, escaláveis e bem documentados �
   <tr>
     <td width="50%">
       <h3>🏗️ terraform-aws-infra</h3>
-      <p>Infraestrutura AWS completa como código com Terraform, organizada em módulos reutilizáveis: VPC, EC2, ALB e Security Groups.</p>
+      <p>Infraestrutura AWS como código com Terraform, organizada em módulos reutilizáveis: VPC, EC2, ALB e Security Groups.</p>
       <p>
         <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
@@ -68,7 +67,7 @@ Tenho paixão por construir sistemas estáveis, escaláveis e bem documentados �
     </td>
     <td width="50%">
       <h3>📊 observability-stack</h3>
-      <p>Stack de observabilidade pronta para uso com Prometheus + Grafana, dashboards pré-configurados e API Node.js com métricas customizadas.</p>
+      <p>Stack com Prometheus + Grafana, dashboards provisionados automaticamente e API Node.js com métricas customizadas.</p>
       <p>
         <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
         <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
@@ -80,7 +79,7 @@ Tenho paixão por construir sistemas estáveis, escaláveis e bem documentados �
   <tr>
     <td width="50%">
       <h3>🔄 cicd-pipeline-template</h3>
-      <p>Pipeline CI/CD completo com GitHub Actions: testes automatizados, build Docker, deploy via SSH para staging e produção com aprovação manual.</p>
+      <p>Pipeline CI/CD com GitHub Actions: testes automatizados, build Docker e deploy SSH para staging e produção.</p>
       <p>
         <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
@@ -88,8 +87,8 @@ Tenho paixão por construir sistemas estáveis, escaláveis e bem documentados �
       <a href="https://github.com/ChayaElharek/cicd-pipeline-template">→ Ver repositório</a>
     </td>
     <td width="50%">
-      <h3>🌐 Em breve...</h3>
-      <p>Kubernetes production setup com HPA, probes, Ingress e ConfigMaps — próximo projeto do portfólio.</p>
+      <h3>🌐 Em construção...</h3>
+      <p>Próximo projeto: Kubernetes com HPA, Ingress e probes de saúde.</p>
       <p>
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
       </p>
@@ -110,18 +109,18 @@ Tenho paixão por construir sistemas estáveis, escaláveis e bem documentados �
 
 ---
 
-## 🌍 Experiência
+## 💼 Experiência
 
 ```
-CTO — 123 Tecnologia LTDA (São Paulo, Remoto)
-├── Modernização de infraestrutura produtiva SaaS
-├── Conteinerização com Docker + Portainer
+Gestora de Infraestrutura — 123 Tecnologia LTDA (Remoto)
+├── Administração de servidores Linux em produção
+├── Deploy e manutenção de aplicações com Docker + Portainer
 ├── CI/CD com GitHub Actions
-├── Observabilidade: Prometheus + Grafana + Zabbix
-└── Gestão de múltiplos bancos em produção
+├── Monitoramento com Prometheus, Grafana e Zabbix
+└── Suporte técnico ao time de desenvolvimento
 
-Gestora de TI — Hachi Materiais Elétricos (2019–2022)
-└── Infraestrutura, redes, sistemas e gestão de pessoas
+Gestora Administrativa e de TI — Hachi Materiais Elétricos (2019–2022)
+└── Infraestrutura, redes, sistemas internos e gestão de pessoas
 
 Backoffice N2 — Oi Telecom (2012–2016)
 └── Suporte a infraestrutura e escalonamento de incidentes
