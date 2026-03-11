@@ -6,9 +6,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chayaelharar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chayaelharar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chaya--elharar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaya-elharar-40b438101/details/experience/)
 [![Email](https://img.shields.io/badge/Email-chayaelharar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chayaelharar@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-chayacode.com.br-0ea5e9?style=for-the-badge&logo=firefox&logoColor=white)](https://chayacode.com.br)
+[![Portfolio](https://img.shields.io/badge/Portfolio-chayacode.com.br-0ea5e9?style=for-the-badge&logo=firefox&logoColor=white)](https://chayacode.com.br/)
 
 </div>
 
