@@ -99,17 +99,6 @@ Gosto de resolver problemas reais, documentar o que faço e construir soluções
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ChayaElharek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChayaElharek&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 💼 Experiência
 
 ```
