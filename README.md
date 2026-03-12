@@ -16,7 +16,7 @@
 
 ## 👩‍💻 Sobre mim
 
-Sou **DevOps** com experiência prática em infraestrutura Linux, conteinerização e automação de processos. Trabalho diretamente com ambientes produtivos — do deploy ao monitoramento — e estou em constante evolução para aprofundar minha atuação em Cloud e práticas DevOps.
+Sou **DevOps** com experiência prática em infraestrutura Linux, conteinerização e automação de processos. Trabalho diretamente com ambientes produtivos do deploy ao monitoramento e estou em constante evolução para aprofundar minha atuação em Cloud e práticas DevOps.
 
 Gosto de resolver problemas reais, documentar o que faço e construir soluções que outras pessoas consigam entender e manter.
 
