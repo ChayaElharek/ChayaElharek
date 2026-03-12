@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=200&section=header&text=Chaya%20Elharar&fontSize=50&fontColor=f8fafc&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Infrastructure%20%7C%20Automation&descAlignY=58&descColor=94a3b8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=200&section=header&text=Chaya%20Elharar&fontSize=50&fontColor=f8fafc&fontAlignY=38&desc=DevOps%20%7C%20Infrastructure%20%7C%20Automation&descAlignY=58&descColor=94a3b8" />
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## 👩‍💻 Sobre mim
 
-Sou **DevOps Engineer** com experiência prática em infraestrutura Linux, conteinerização e automação de processos. Trabalho diretamente com ambientes produtivos — do deploy ao monitoramento — e estou em constante evolução para aprofundar minha atuação em Cloud e práticas DevOps.
+Sou **DevOps** com experiência prática em infraestrutura Linux, conteinerização e automação de processos. Trabalho diretamente com ambientes produtivos — do deploy ao monitoramento — e estou em constante evolução para aprofundar minha atuação em Cloud e práticas DevOps.
 
 Gosto de resolver problemas reais, documentar o que faço e construir soluções que outras pessoas consigam entender e manter.
 
@@ -87,11 +87,12 @@ Gosto de resolver problemas reais, documentar o que faço e construir soluções
       <a href="https://github.com/ChayaElharek/cicd-pipeline-template">→ Ver repositório</a>
     </td>
     <td width="50%">
-      <h3>🌐 Em construção...</h3>
-      <p>Próximo projeto: Kubernetes com HPA, Ingress e probes de saúde.</p>
+      <h3>🌐 Kurbenetes </h3>
+      <p>Aplicação Node.js deployada no Kubernetes (k3s) com boas práticas de produção..</p>
       <p>
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
       </p>
+      <a href="https://github.com/ChayaElharek/k8s-production-setup">→ Ver repositório</a>
     </td>
   </tr>
 </table>
