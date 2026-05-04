@@ -87,7 +87,7 @@ Gosto de resolver problemas reais, documentar o que faço e construir soluções
       <a href="https://github.com/ChayaElharek/cicd-pipeline-template">→ Ver repositório</a>
     </td>
     <td width="50%">
-      <h3>🌐 Kurbenetes </h3>
+      <h3>🌐 Kubernetes </h3>
       <p>Aplicação Node.js deployada no Kubernetes (k3s) com boas práticas de produção..</p>
       <p>
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
