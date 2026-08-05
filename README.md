@@ -19,7 +19,7 @@ Sou **Desenvolvedora Backend & DevOps** com mais de 3 anos de experiência em am
 
 Trabalho com debugging de sistemas distribuídos, arquitetura de cache, observabilidade e infraestrutura como código. Gosto de resolver problemas reais, documentar o que faço e construir soluções que outras pessoas consigam entender e manter.
 
-Os repositórios públicos deste perfil são labs de estudo e prática pessoal — código de produção de cliente é proprietário e não pode ser publicado.
+Os repositórios públicos deste perfil são labs de estudo e prática pessoal  código de produção de cliente é proprietário e não pode ser publicado.
 
 ---
 
