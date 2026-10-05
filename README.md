@@ -23,7 +23,6 @@ Day to day, this includes:
 - CI/CD, deployment automation and environment configuration
 - Investigating and resolving production incidents across application, network and infrastructure layers
 
-> Most of my work is in private repositories under employer and client confidentiality, so it is not published here.
 
 ---
 
@@ -35,7 +34,7 @@ Day to day, this includes:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![OpenResty](https://img.shields.io/badge/OpenResty-00A67D?style=flat-square&logo=nginx&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
 
 ### Frontend
 
