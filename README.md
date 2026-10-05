@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chaya%20Elharar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaya-elharak-40b438101/)
 [![Email](https://img.shields.io/badge/Email-chayaelharar%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chayaelharar@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-chayacode.com.br-111827?style=flat-square&logo=google-chrome&logoColor=white)](https://chayacode.com.br)
+[![Portfolio](https://img.shields.io/badge/Portfolio-chayacode.com.br-111827?style=flat-square&logo=google-chrome&logoColor=white)](https://chayacode.com)
 
 ---
 
